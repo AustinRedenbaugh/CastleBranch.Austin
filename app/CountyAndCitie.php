@@ -6,6 +6,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class CountyAndCitie extends Model
 {
+    //incrementing ids
+    public $incrementing = true;
     // Table name
     protected $table = 'county_and_cities';
     // Primary Key

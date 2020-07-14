@@ -47,7 +47,7 @@ class CountyAndCitiesTableSeeder extends Seeder
                 'county_name' => 'Orange',
                 'zip' => '92850',
                 'city_name' => 'Anaheim', 
-                'state_id' => 11
+                'state_id' => 2
             ]
         ]);
     }
